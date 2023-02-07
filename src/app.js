@@ -5,7 +5,7 @@ const client = new RPC.Client({
     transport: "ipc"
 });
 
-var clientID = "1068945800283037848";
+var clientID = "";
 const presence = require('./presence.js')
 
 const app = express()
