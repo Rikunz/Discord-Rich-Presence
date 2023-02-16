@@ -1,7 +1,7 @@
 
 
-/src/node_modules
+src/node_modules/**
 
-/src/package-lock.json
+src/package-lock.json
 
 src/ext/**
