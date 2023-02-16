@@ -1,5 +1,7 @@
+
+
 ./src/node_modules
 
 ./src/package-lock.json
 
-./src/ext/
+./src/ext/*
